@@ -3,6 +3,6 @@ end
 
 fido = Dog.new
 
-snoopie = Dog.new
+snoopy = Dog.new
 
 lassie = Dog.new
