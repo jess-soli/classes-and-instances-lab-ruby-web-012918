@@ -1,8 +1,8 @@
 class Dog 
 end
 
-sunny = Dog.new
+fido = Dog.new
 
-spot = Dog.new
+snoopie = Dog.new
 
-ellie = Dog.new
+lassie = Dog.new
